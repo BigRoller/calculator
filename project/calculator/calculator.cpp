@@ -6,7 +6,7 @@
 using namespace std;
 
 // Функция для перевода строки из win1251 в utf-8
-string win1251_to_utf8(string str) {
+string windows1251_to_utf8(string str) {
   string result;
   for (char c : str) {
     if (c >= 0xC0 && c <= 0xFF) { // Если символ в диапазоне win1251
@@ -100,7 +100,7 @@ int main() {
       string str; // Переменная для хранения строки
       cout << "Введите строку в кодировке win1251: ";
       cin >> str; // Считываем строку
-      cout << "\nСтрока в кодировке utf-8: " << win1251_to_utf8(str) << "\n\n"; // Выводим строку в кодировке utf-8
+      cout << "\nСтрока в кодировке utf-8: " << windows1251_to_utf8(str) << "\n\n"; // Выводим строку в кодировке utf-8
       break;
     }
     case 3: {// Преобразование двухзначных чисел в слова
