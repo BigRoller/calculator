@@ -5,7 +5,7 @@
 #include <ctime>
 #include <windows.h>
 #include <limits>
-#include "translate_win1251_to_utf8.h"
+#include "see_schedule.h"
 #include "write_num_to_words.h"
 #include "trancelate_decimal_to_binary.h"
 #include "calculate.h"
@@ -23,7 +23,7 @@ int main() {
     int choice; // Переменная для хранения выбора пользователя
     cout << "Выберите одну из следующих функций:\n";
     cout << "1. Калькулятор\n";
-    cout << "2. Перевод строки из win1251 в utf-8\n";
+    cout << "2. Посмотреть расписание\n";
     cout << "3. Преобразование двухзначных чисел в слова\n";
     cout << "4. Текущее время в разных городах\n";
     cout << "5. Перевод чисел из 10 в 2 систему счисления\n";
@@ -35,17 +35,14 @@ int main() {
       calculate(choice); // Калькулятор
       break;
     }
-    case 2: { // Перевод строки из win1251 в utf-8
-      string str; // Переменная для хранения строки
-      cout << "Введите строку в кодировке win1251: ";
-      cin >> str; // Считываем строку
-      cout << "\nСтрока в кодировке utf-8: " << translate_win1251_to_utf8(str) << "\n\n"; // Выводим строку в кодировке utf-8
-      break;
+    case 2: { // Показать расписание
+    see_schedule();
+    break;
     }
     case 3: {// Преобразование двухзначных чисел в слова
-      int num; // Переменная для хранения числа
+      int num;
       cout << "Введите двухзначное число: ";
-      cin >> num; // Считываем число
+      cin >> num; 
       if (num >= 10 && num <= 99) {
         cout << "\nЧисло в словах: " << write_num_to_words(num) << "\n\n"; // Выводим число в словах
       }
@@ -61,7 +58,7 @@ int main() {
     case 5: { // Перевод чисел из 10 в 2 систему счисления
       int num;
       cout << "Введите число в десятичной системе счисления: ";
-      cin >> num; // Считываем число
+      cin >> num; 
       cout << "\nЧисло в двоичной системе счисления: " << trancelate_decimal_to_binary(num) << "\n\n"; // Выводим число в двоичной системе счисления
       break;
     }
