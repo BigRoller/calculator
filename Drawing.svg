@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:v='http://schemas.microsoft.com/visio/2003/SVGExtensions/' xml:space='preserve' xmlns:xlink='http://www.w3.org/1999/xlink' width='1021.8898pt' height='1445.6693pt' viewBox='0 0 1021.8898 1445.6693'>
+ <v:documentProperties>
+  <v:userDefs>
+   <v:ud v:nameU='msvNoAutoConnect' v:val='1'/>
+  </v:userDefs>
+ </v:documentProperties>
+ <g id='SFixTitle'/>
+ <g id='SContent'>
+  <g>
+   <g transform='matrix(1,0,0,-1,0,1445.6693)'>
+    <g transform='matrix(1,0,0,1,425.19684,722.8346)' v:mID='1'>
+     <title>Shape1</title>
+     <g transform='matrix(1,0,0,1,0,0)' v:mID='1'>
+      <title>Shape1</title>
+      <ellipse cx='21.25984251968504' cy='46.50590551181102' rx='10.629921913146973' ry='6.643702983856201' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none' stroke-opacity='0'/>
+     </g>
+     <path d='M31.889766693,46.505905151 C31.889766693,48.794113159 29.998327255,50.927001953 26.893692017,52.139751434 L26.893692017,52.139751434 C25.204423904,52.799621582 23.251909256,53.149604797 21.259843826,53.149604797 L21.259843826,53.149604797 C19.267776489,53.149604797 17.315261841,52.799621582 15.625994682,52.139751434 L15.625994682,52.139751434 C12.521360397,50.927001953 10.629921913,48.794113159 10.629921913,46.505905151 L10.629921913,46.505905151 C10.629921913,44.217697144 12.521360397,42.084804535 15.625994682,40.872055054 L15.625994682,40.872055054 C17.315261841,40.212184906 19.267776489,39.862201691 21.259843826,39.862201691 L21.259843826,39.862201691 C23.251909256,39.862201691 25.204423904,40.212184906 26.893692017,40.872055054 L26.893692017,40.872055054 C29.998327255,42.084804535 31.889766693,44.217697144 31.889766693,46.505905151 ZM21.259843826,39.862205505 L21.259843826,17.716535568 M21.259843826,35.433071136 L0,35.433071136 M21.259843826,35.433071136 L42.519687653,35.433071136 M21.259843826,17.716535568 L0,0 M21.259843826,17.716535568 L42.519687653,0 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='#FFFFFF'  fill-rule='evenodd'/>
+     <g transform='matrix(1,0,0,1,1.417326,-32.952755)'>
+      <path d='M1.59482646,-7.854100227 L38.090209961,-7.854100227 L38.090209961,2.215259075 L1.59482646,2.215259075 Z' stroke='none' stroke-width='0' fill='#FFFFFF'  fill-rule='evenodd' transform='matrix(1,0,0,-1,0,29.049448)'/>
+      <text x='1.5948265' y='0' class='TextStyle0' fill='#000000' opacity='1' transform='matrix(1,0,0,-1,0,29.049448)'>Пользоват</text>
+      <path d='M13.456531525,2.044482708 L26.228506088,2.044482708 L26.228506088,12.11384201 L13.456531525,12.11384201 Z' stroke='none' stroke-width='0' fill='#FFFFFF'  fill-rule='evenodd' transform='matrix(1,0,0,-1,0,29.049448)'/>
+      <text x='13.456532' y='9.898582' class='TextStyle0' fill='#000000' opacity='1' transform='matrix(1,0,0,-1,0,29.049448)'>ели</text>
+     </g>
+    </g>
+    <g transform='matrix(1,0,0,1,398.62204,857.4803)' v:mID='2'>
+     <title>Shape2</title>
+     <g transform='matrix(1,0,0,1,0,0)' v:mID='2'>
+      <title>Shape2</title>
+      <ellipse cx='47.83464566929134' cy='28.34645669291339' rx='47.83464431762695' ry='28.34645652770996' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none' stroke-opacity='0'/>
+     </g>
+     <ellipse cx='47.83464566929134' cy='28.34645669291339' rx='47.83464431762695' ry='28.34645652770996' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='#FFFFFF'  fill-rule='evenodd'/>
+     <g transform='matrix(1,0,0,1,1.4173241,1.4173222)'>
+      <text x='22.258917' y='0' class='TextStyle0' fill='#000000' opacity='1' transform='matrix(1,0,0,-1,0,29.403778)'>Использовать</text>
+      <text x='24.214386' y='9.898582' class='TextStyle0' fill='#000000' opacity='1' transform='matrix(1,0,0,-1,0,29.403778)'>приложение</text>
+     </g>
+    </g>
+    <g transform='matrix(1,0,0,1,446.45667,786.6142)' v:mID='3'>
+     <title>Dynamic connector.3</title>
+     <g transform='matrix(1,0,0,1,0,0)' v:mID='3'>
+      <title>Dynamic connector.3</title>
+      <path d='M0,63.779525757 L0,0 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none' stroke-opacity='0'/>
+     </g>
+     <path d='M0,63.779525757 L0,0 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(1,0,0,1,419.88187,836.22046)' v:mID='4'>
+     <title>Shape4</title>
+     <g transform='matrix(1,0,0,1,0,0)' v:mID='4'>
+      <title>Shape4</title>
+     </g>
+     <g transform='matrix(1,0,0,1,1.4173231,1.4173231)'>
+      <text x='9.779679' y='4.949291' class='TextStyle0' fill='#000000' opacity='1' transform='matrix(1,0,0,-1,0,11.687244)'>1</text>
+     </g>
+    </g>
+    <g transform='matrix(1,0,0,1,422.53937,775.9843)' v:mID='5'>
+     <title>Shape5</title>
+     <g transform='matrix(1,0,0,1,0,0)' v:mID='5'>
+      <title>Shape5</title>
+     </g>
+     <g transform='matrix(1,0,0,1,1.4173231,1.4173231)'>
+      <text x='7.158449' y='4.949291' class='TextStyle0' fill='#000000' opacity='1' transform='matrix(1,0,0,-1,0,13.458898)'>*</text>
+     </g>
+    </g>
+    <g transform='matrix(1,0,0,1,398.62204,985.0394)' v:mID='6'>
+     <title>Shape6</title>
+     <g transform='matrix(1,0,0,1,0,0)' v:mID='6'>
+      <title>Shape6</title>
+      <ellipse cx='47.83464566929134' cy='28.34645669291339' rx='47.83464431762695' ry='28.34645652770996' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none' stroke-opacity='0'/>
+     </g>
+     <ellipse cx='47.83464566929134' cy='28.34645669291339' rx='47.83464431762695' ry='28.34645652770996' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='#FFFFFF'  fill-rule='evenodd'/>
+    </g>
+    <g transform='matrix(1,0,0,1,138.18898,729.92126)' v:mID='7'>
+     <title>Shape7</title>
+     <g transform='matrix(1,0,0,1,0,0)' v:mID='7'>
+      <title>Shape7</title>
+      <ellipse cx='47.83464566929134' cy='28.34645669291339' rx='47.83464431762695' ry='28.34645652770996' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none' stroke-opacity='0'/>
+     </g>
+     <ellipse cx='47.83464566929134' cy='28.34645669291339' rx='47.83464431762695' ry='28.34645652770996' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='#FFFFFF'  fill-rule='evenodd'/>
+    </g>
+    <g transform='matrix(1,0,0,1,446.45667,924.80316)' v:mID='8'>
+     <title>Dynamic connector.8</title>
+     <g transform='matrix(1,0,0,1,0,0)' v:mID='8'>
+      <title>Dynamic connector.8</title>
+      <path d='M-8.279999733,44.869606018 L0,53.149604797 L-8.279999733,61.429607391 ' stroke='#000000' stroke-width='0.75' fill='none' stroke-opacity='0' transform='matrix(0,1,-1,-0,53.149605,53.149605)'/>
+      <path d='M0,0 L0,53.149604797 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' stroke-dasharray='4 3' fill='none' stroke-opacity='0'/>
+     </g>
+     <path d='M-8.279999733,44.869606018 L0,53.149604797 L-8.279999733,61.429607391 ' stroke='#000000' stroke-width='0.75' fill='none' transform='matrix(0,1,-1,-0,53.149605,53.149605)'/>
+     <path d='M0,0 L0,53.149604797 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' stroke-dasharray='4 3' fill='none'/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <style type='text/css'><![CDATA[ .TextStyle0 {font-family:Calibri;font-size:8.248819px;} ]]></style>
+</svg>
