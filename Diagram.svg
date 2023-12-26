@@ -73,8 +73,8 @@
      <path d='M-8.279999733,-7.571338654 L0,0.708661437 L-8.279999733,8.988661766 ' stroke='#000000' stroke-width='0.75' fill='none' transform='matrix(-1,0,0,-1,0,1.4173229)'/>
      <path d='M53.149604797,0.708661437 L0,0.708661437 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' stroke-dasharray='4 3' fill='none'/>
      <g transform='matrix(1,0,0,1,-30.47244,-3.8976378)'>
-      <path d='M50.813243866,-2.201229334 L62.572574615,-2.201229334 L62.572574615,6.172450066 L50.813243866,6.172450066 Z' stroke='none' stroke-width='0' fill='#FFFFFF'  fill-rule='evenodd' transform='matrix(1,0,0,-1,0,6.8747244)'/>
-      <text x='50.813244' y='4.5368505' class='TextStyle1' fill='#000000' opacity='1' transform='matrix(1,0,0,-1,0,6.8747244)'>Use</text>
+      <path d='M40.322151184,-2.201229334 L73.063682556,-2.201229334 L73.063682556,6.172450066 L40.322151184,6.172450066 Z' stroke='none' stroke-width='0' fill='#FFFFFF'  fill-rule='evenodd' transform='matrix(1,0,0,-1,0,6.8747244)'/>
+      <text x='40.32215' y='4.5368505' class='TextStyle1' fill='#000000' opacity='1' transform='matrix(1,0,0,-1,0,6.8747244)'>Включить</text>
      </g>
     </g>
     <g transform='matrix(1,0,0,1,201.9685,1123.2284)' v:mID='7'>
@@ -125,8 +125,8 @@
      <path d='M-8.279999733,10.556488037 L0,18.836488724 L-8.279999733,27.11648941 ' stroke='#000000' stroke-width='0.75' fill='none' transform='matrix(-0.91429704,0.40504435,-0.40504435,-0.91429704,7.6296134,36.05863)'/>
      <path d='M42.51914978,0 L0,18.836488724 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' stroke-dasharray='4 3' fill='none'/>
      <g transform='matrix(1,0,0,1,-35.55535,4.865999)'>
-      <path d='M50.813243866,-2.201229334 L62.572574615,-2.201229334 L62.572574615,6.172450066 L50.813243866,6.172450066 Z' stroke='none' stroke-width='0' fill='#FFFFFF'  fill-rule='evenodd' transform='matrix(1,0,0,-1,0,6.8747244)'/>
-      <text x='50.813244' y='4.5368505' class='TextStyle1' fill='#000000' opacity='1' transform='matrix(1,0,0,-1,0,6.8747244)'>Use</text>
+      <path d='M40.322151184,-2.201229334 L73.063682556,-2.201229334 L73.063682556,6.172450066 L40.322151184,6.172450066 Z' stroke='none' stroke-width='0' fill='#FFFFFF'  fill-rule='evenodd' transform='matrix(1,0,0,-1,0,6.8747244)'/>
+      <text x='40.32215' y='4.5368505' class='TextStyle1' fill='#000000' opacity='1' transform='matrix(1,0,0,-1,0,6.8747244)'>Включить</text>
      </g>
     </g>
     <g transform='matrix(1,0,0,1,244.48819,1179.9213)' v:mID='11'>
@@ -165,8 +165,8 @@
      <path d='M-8.279999733,32.012142181 L0,40.292144775 L-8.279999733,48.572143555 ' stroke='#000000' stroke-width='0.75' fill='none' transform='matrix(-0.42808634,0.90373784,-0.90373784,-0.42808634,36.413536,57.54066)'/>
      <path d='M19.085754395,0 L0,40.292144775 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' stroke-dasharray='4 3' fill='none'/>
      <g transform='matrix(1,0,0,1,-47.011578,15.24747)'>
-      <path d='M50.813243866,-2.201229334 L62.572574615,-2.201229334 L62.572574615,6.172450066 L50.813243866,6.172450066 Z' stroke='none' stroke-width='0' fill='#FFFFFF'  fill-rule='evenodd' transform='matrix(1,0,0,-1,0,6.8747244)'/>
-      <text x='50.813244' y='4.5368505' class='TextStyle1' fill='#000000' opacity='1' transform='matrix(1,0,0,-1,0,6.8747244)'>Use</text>
+      <path d='M40.322151184,-2.201229334 L73.063682556,-2.201229334 L73.063682556,6.172450066 L40.322151184,6.172450066 Z' stroke='none' stroke-width='0' fill='#FFFFFF'  fill-rule='evenodd' transform='matrix(1,0,0,-1,0,6.8747244)'/>
+      <text x='40.32215' y='4.5368505' class='TextStyle1' fill='#000000' opacity='1' transform='matrix(1,0,0,-1,0,6.8747244)'>Включить</text>
      </g>
     </g>
     <g transform='matrix(1,0,0,1,416.741,1176.3802)' v:mID='14'>
@@ -179,8 +179,8 @@
      <path d='M10.805753708,32.012142181 L19.085754395,40.292144775 L10.805753708,48.572143555 ' stroke='#000000' stroke-width='0.75' fill='none' transform='matrix(0.42808634,0.90373784,-0.90373784,0.42808634,47.32894,5.7951126)'/>
      <path d='M0,0 L19.085754395,40.292144775 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' stroke-dasharray='4 3' fill='none'/>
      <g transform='matrix(1,0,0,1,-47.288498,15.24747)'>
-      <path d='M50.813243866,-2.201229334 L62.572574615,-2.201229334 L62.572574615,6.172450066 L50.813243866,6.172450066 Z' stroke='none' stroke-width='0' fill='#FFFFFF'  fill-rule='evenodd' transform='matrix(1,0,0,-1,0,6.8747244)'/>
-      <text x='50.813244' y='4.5368505' class='TextStyle1' fill='#000000' opacity='1' transform='matrix(1,0,0,-1,0,6.8747244)'>Use</text>
+      <path d='M40.322151184,-2.201229334 L73.063682556,-2.201229334 L73.063682556,6.172450066 L40.322151184,6.172450066 Z' stroke='none' stroke-width='0' fill='#FFFFFF'  fill-rule='evenodd' transform='matrix(1,0,0,-1,0,6.8747244)'/>
+      <text x='40.32215' y='4.5368505' class='TextStyle1' fill='#000000' opacity='1' transform='matrix(1,0,0,-1,0,6.8747244)'>Включить</text>
      </g>
     </g>
     <g transform='matrix(1,0,0,1,414.56696,1222.4409)' v:mID='15'>
@@ -228,8 +228,8 @@
      <path d='M34.239151001,10.556488037 L42.51914978,18.836488724 L34.239151001,27.11648941 ' stroke='#000000' stroke-width='0.75' fill='none' transform='matrix(0.914297,0.40504444,-0.40504444,0.914297,11.273636,-15.607801)'/>
      <path d='M0,0 L42.51914978,18.836488724 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' stroke-dasharray='4 3' fill='none'/>
      <g transform='matrix(1,0,0,1,-35.31132,4.865999)'>
-      <path d='M50.813243866,-2.201229334 L62.572574615,-2.201229334 L62.572574615,6.172450066 L50.813243866,6.172450066 Z' stroke='none' stroke-width='0' fill='#FFFFFF'  fill-rule='evenodd' transform='matrix(1,0,0,-1,0,6.8747244)'/>
-      <text x='50.813244' y='4.5368505' class='TextStyle1' fill='#000000' opacity='1' transform='matrix(1,0,0,-1,0,6.8747244)'>Use</text>
+      <path d='M40.322151184,-2.201229334 L73.063682556,-2.201229334 L73.063682556,6.172450066 L40.322151184,6.172450066 Z' stroke='none' stroke-width='0' fill='#FFFFFF'  fill-rule='evenodd' transform='matrix(1,0,0,-1,0,6.8747244)'/>
+      <text x='40.32215' y='4.5368505' class='TextStyle1' fill='#000000' opacity='1' transform='matrix(1,0,0,-1,0,6.8747244)'>Включить</text>
      </g>
     </g>
     <g transform='matrix(1,0,0,1,488.97638,1176.3779)' v:mID='19'>
@@ -255,8 +255,8 @@
      <path d='M44.873046875,-8.279999733 L53.153049469,0 L44.873046875,8.279999733 ' stroke='#000000' stroke-width='0.75' fill='none' transform='matrix(0.9936435,-0.11257258,0.11257258,0.9936435,0.33786774,5.983576)'/>
      <path d='M0,6.021853924 L53.153049469,0 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' stroke-dasharray='4 3' fill='none'/>
      <g transform='matrix(1,0,0,1,-29.934954,-1.6159277)'>
-      <path d='M50.813243866,-2.201229334 L62.572574615,-2.201229334 L62.572574615,6.172450066 L50.813243866,6.172450066 Z' stroke='none' stroke-width='0' fill='#FFFFFF'  fill-rule='evenodd' transform='matrix(1,0,0,-1,0,6.8747244)'/>
-      <text x='50.813244' y='4.5368505' class='TextStyle1' fill='#000000' opacity='1' transform='matrix(1,0,0,-1,0,6.8747244)'>Use</text>
+      <path d='M40.322151184,-2.201229334 L73.063682556,-2.201229334 L73.063682556,6.172450066 L40.322151184,6.172450066 Z' stroke='none' stroke-width='0' fill='#FFFFFF'  fill-rule='evenodd' transform='matrix(1,0,0,-1,0,6.8747244)'/>
+      <text x='40.32215' y='4.5368505' class='TextStyle1' fill='#000000' opacity='1' transform='matrix(1,0,0,-1,0,6.8747244)'>Включить</text>
      </g>
     </g>
     <g transform='matrix(1,0,0,1,520.86615,1116.1417)' v:mID='21'>
@@ -274,5 +274,5 @@
    </g>
   </g>
  </g>
- <style type='text/css'><![CDATA[ .TextStyle1 {font-family:Times New Roman;font-size:7.5614176px;}.TextStyle0 {font-family:Calibri;font-size:8.248819px;} ]]></style>
+ <style type='text/css'><![CDATA[ .TextStyle0 {font-family:Calibri;font-size:8.248819px;}.TextStyle1 {font-family:Times New Roman;font-size:7.5614176px;} ]]></style>
 </svg>
