@@ -9,7 +9,7 @@
 #include "write_num_to_words.h"
 #include "trancelate_decimal_to_binary.h"
 #include "calculate.h"
-#include "show_time.h"
+#include"converting_symbol_to_win1251.h"
 
 using namespace std;
 
