@@ -5,6 +5,7 @@ using namespace std;
 
 // Ôóíêöèÿ äëÿ ïðîñìîòðà ðàñïèñàíèÿ
 void seeSchedule() {
+  setlocale(LC_TYPE, "rus");
   bool exit = false;
   int week;
   char day;
