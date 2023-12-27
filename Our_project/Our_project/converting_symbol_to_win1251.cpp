@@ -20,9 +20,10 @@ void convertSymbol()
   else
   {
 	  finalSymbol = symbol[0]; // присваиваем первый символ из строки 
+          cout << "\n\nВы ввели символ (" << finalSymbol << "), его код в Windows-1251 = " << (int)finalSymbol << "\n\n"; // используя преобразования типов получаем код символа
   }
 
-  cout << "\n\nВы ввели символ (" << finalSymbol << "), его код в Windows-1251 = " << (int)finalSymbol << "\n\n"; // используя преобразования типов получаем код символа
+ 
 
 
 }
