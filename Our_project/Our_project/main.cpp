@@ -36,7 +36,7 @@ int main() {
       break;
     }
     case 2: { // Показать расписание
-    see_schedule();
+    seeSchedule();
     break;
     }
     case 3: {// Преобразование двухзначных чисел в слова
@@ -44,7 +44,7 @@ int main() {
       cout << "Введите двухзначное число: ";
       cin >> num; 
       if (num >= 10 && num <= 99) {
-        cout << "\nЧисло в словах: " << write_num_to_words(num) << "\n\n"; // Выводим число в словах
+        cout << "\nЧисло в словах: " << writeNumToWords(num) << "\n\n"; // Выводим число в словах
       }
       else {
         cout << "\nНекорректный ввод\n\n";
@@ -59,7 +59,7 @@ int main() {
       int num;
       cout << "Введите число в десятичной системе счисления: ";
       cin >> num; 
-      cout << "\nЧисло в двоичной системе счисления: " << trancelate_decimal_to_binary(num) << "\n\n"; // Выводим число в двоичной системе счисления
+      cout << "\nЧисло в двоичной системе счисления: " << trancelateDecimalToBinary(num) << "\n\n"; // Выводим число в двоичной системе счисления
       break;
     }
     case 6: {
