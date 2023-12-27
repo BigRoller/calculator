@@ -2,4 +2,4 @@
 #include <string>
 using namespace std;
 
-void see_schedule();
+void seeSchedule();
