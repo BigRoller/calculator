@@ -7,7 +7,7 @@ void seeSchedule() {
   int week;
   string stringDay;
 
-  cout << "¬ведите неделю: " << endl;
+  cout << "\n¬ведите неделю (1-ую или 2-ую): ";
   cin >> week;
   if (week == 1 || week == 2) {
     cout << "¬ведите номер дн€: " << endl;
@@ -20,7 +20,7 @@ void seeSchedule() {
     cin >> stringDay;
 
     if (stringDay.size() > 1) {
-      cout << "ќшибка: введено больше одного символа " << endl;
+      cout << "\nќшибка: введено больше одного символа " << endl;
     }
     else {
       char day = stringDay[0];
@@ -79,7 +79,7 @@ void seeSchedule() {
 
           }
         }
-        if (week == 2) {
+        else if (week == 2) {
 
           while (!exit)
           {
