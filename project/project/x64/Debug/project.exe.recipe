@@ -2,11 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-<<<<<<< HEAD
       <FullPath>C:\Users\glora\Desktop\Лаба 12 ОПИ\project\project\x64\Debug\project.exe</FullPath>
-=======
-      <FullPath>C:\Users\glora\Desktop\testing\project\project\x64\Debug\project.exe</FullPath>
->>>>>>> 57086f49af46de8976dad22d17da162482eef811
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

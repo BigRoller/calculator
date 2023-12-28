@@ -3,7 +3,7 @@
 
 using namespace std;
 
-void calculate(int choice) {
+void calculate() {
   double a, b;
   char op; // Переменная для хранения оператора
   cout << "Введите выражение в формате a op b: ";
@@ -30,7 +30,7 @@ void calculate(int choice) {
     }
     break;
   }
-  default: { // Если оператор неизвестен, выводим сообщение об ошибке
+  default: { // Если что-то пошло не так, выводим сообщение об ошибке
     cout << "\nНекорректный ввод\n\n";
     break;
   }

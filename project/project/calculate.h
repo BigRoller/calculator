@@ -3,4 +3,4 @@
 
 using namespace std;
 
-void calculate(int choice);
+void calculate();
