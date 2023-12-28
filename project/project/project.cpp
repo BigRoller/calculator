@@ -18,7 +18,7 @@ int main() {
   SetConsoleCP(1251);
   SetConsoleOutputCP(1251);
   setlocale(LC_CTYPE, "Ru");
-
+  //
   while (true) {
     int choice; // Переменная для хранения выбора пользователя
     cout << "Выберите одну из следующих функций:\n";
