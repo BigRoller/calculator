@@ -3,7 +3,7 @@
 using namespace std;
 
 // Функция для просмотра расписания
-void see_schedule() {
+void seeSchedule() {
   int week;
   string stringDay;
 
