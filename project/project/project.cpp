@@ -52,6 +52,8 @@ int main() {
       cin >> num;
       if (num > 0)
         cout << "\nЧисло в двоичной системе счисления: " << translateDecimalToBinary(num) << "\n\n"; // Выводим число в двоичной системе счисления
+      else 
+        cout << "\nНекорректный ввод\n\n";
       break;
     }
     case '6': {
