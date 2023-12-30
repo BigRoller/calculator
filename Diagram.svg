@@ -145,7 +145,7 @@
      <ellipse id="svg_86" fill-rule="evenodd" fill="#FFFFFF" stroke-linecap="round" stroke-width="0.75" stroke="#000000" ry="28.346457" rx="42.519688" cy="28.346457" cx="42.519685"/>
      <g id="svg_87" transform="matrix(1,0,0,1,1.4173241,1.4173222) ">
       <text id="svg_88" transform="matrix(1,0,0,-1,0,29.403778) " fill="#000000" class="TextStyle0" y="-4.949291" x="14.400436">Преобразовать</text>
-      <text id="svg_89" transform="matrix(1,0,0,-1,0,29.403778) " fill="#000000" class="TextStyle0" y="4.949291" x="6.457727">двузначных чисел в</text>
+      <text id="svg_89" transform="matrix(1,0,0,-1,0,29.403778) " fill="#000000" class="TextStyle0" y="4.949291" x="6.457727">двузначных целых положительных чисел в</text>
       <text id="svg_90" transform="matrix(1,0,0,-1,0,29.403778) " fill="#000000" class="TextStyle0" y="14.847875" x="31.127659">слова</text>
      </g>
     </g>
