@@ -1,9 +1,6 @@
-﻿Сборка начата 27.12.2023 16:16:44.
-Уровень детализации журнала: Normal.     1>Проект "C:\Users\glora\Desktop\test\project\project\project.vcxproj" в узле 2 (целевые объекты Build).
-     1>PrepareForBuild:
-         Создание каталога "C:\Users\glora\Desktop\test\project\x64\Release\".
-         Создание каталога "x64\Release\project.tlog\".
-       InitializeBuildStatus:
+﻿Сборка начата 30.12.2023 10:50:01.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\glora\Desktop\Лаба 12 ОПИ\project\project\project\project.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
          Создание "x64\Release\project.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
          Обращение к "x64\Release\project.tlog\unsuccessfulbuild".
        ClCompile:
@@ -15,24 +12,27 @@
          translate_decimal_to_binary.cpp
          write_num_to_words.cpp
        Link:
-         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\glora\Desktop\test\project\x64\Release\project.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\glora\Desktop\test\project\x64\Release\project.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /LTCGOUT:"x64\Release\project.iobj" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\glora\Desktop\test\project\x64\Release\project.lib" /MACHINE:X64 x64\Release\calculate.obj
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\glora\Desktop\Лаба 12 ОПИ\project\project\x64\Release\project.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\glora\Desktop\Лаба 12 ОПИ\project\project\x64\Release\project.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /LTCGOUT:"x64\Release\project.iobj" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\glora\Desktop\Лаба 12 ОПИ\project\project\x64\Release\project.lib" /MACHINE:X64 x64\Release\calculate.obj
          x64\Release\converting_symbol_to_win1251.obj
          x64\Release\project.obj
          x64\Release\see_schedule.obj
          x64\Release\translate_decimal_to_binary.obj
          x64\Release\write_num_to_words.obj
          Создание кода
-         Previous IPDB not found, fall back to full compilation.
-         All 154 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         148 of 154 functions (96.1%) were compiled, the rest were copied from previous compilation.
+           1 functions were new in current compilation
+           2 functions had inline decision re-evaluated but remain unchanged
          Создание кода завершено
-         project.vcxproj -> C:\Users\glora\Desktop\test\project\x64\Release\project.exe
+         project.vcxproj -> C:\Users\glora\Desktop\Лаба 12 ОПИ\project\project\x64\Release\project.exe
+       TlogCleanup:
+         Следующие элементы будут удалены из tlogs, так как они были удалены из проекта или сборки: C:\Users\glora\Desktop\test\project\project\calculate.cpp.
        FinalizeBuildStatus:
          Файл "x64\Release\project.tlog\unsuccessfulbuild" удаляется.
          Обращение к "x64\Release\project.tlog\project.lastbuildstate".
-     1>Сборка проекта "C:\Users\glora\Desktop\test\project\project\project.vcxproj" завершена (целевые объекты Build).
+     1>Сборка проекта "C:\Users\glora\Desktop\Лаба 12 ОПИ\project\project\project\project.vcxproj" завершена (целевые объекты Build).
 
 Сборка успешно завершена.
     Предупреждений: 0
     Ошибок: 0
 
-Прошло времени 00:00:05.16
+Прошло времени 00:00:04.47
